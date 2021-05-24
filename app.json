@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "newsreader",
+    "slug": "newsreader",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/abcnews.png",
+    "splash": {
+      "image": "./assets/abcnews.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/abcnews.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.smppandi.newsreader"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
