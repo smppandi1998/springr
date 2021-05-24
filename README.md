@@ -37,7 +37,7 @@ yarn install
 
 ## APK DOWNLOAD LINK
 
-In case of any questions or problems, please contact me at:
+
 (https://expo.io/artifacts/b30c105a-0c39-40f6-9c30-8a13f54b16cf)
 
 
