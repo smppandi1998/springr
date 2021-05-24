@@ -22,15 +22,23 @@ yarn install
 
 ## Preview
 
-![homescreen](https://raw.githubusercontent.com/smppandi1998/Mobile-App-developement/main/DNC-UI/assets/index.png)
-![login](https://raw.githubusercontent.com/smppandi1998/Mobile-App-developement/main/DNC-UI/assets/login.png)
-![register](https://raw.githubusercontent.com/smppandi1998/Mobile-App-developement/main/DNC-UI/assets/adminsignup.png)
-![forgot](https://raw.githubusercontent.com/smppandi1998/Mobile-App-developement/main/DNC-UI/assets/forgetpassword.png)
+![homescreen](https://github.com/smppandi1998/springr/blob/master/assets/processed%20(5).jpeg)
+![Detailscreen](https://github.com/smppandi1998/springr/blob/master/assets/processed%20(4).jpeg)
+![Save image Clicked](https://github.com/smppandi1998/springr/blob/master/assets/processed%20(3).jpeg)
+![Share icon clicked](https://github.com/smppandi1998/springr/blob/master/assets/processed%20(2).jpeg)
+![Sample of share](https://github.com/smppandi1998/springr/blob/master/assets/processed%20(1).jpeg)
+!(https://github.com/smppandi1998/springr/blob/master/assets/processed.jpeg)
+## APK 
+![APK icon](https://github.com/smppandi1998/springr/blob/master/assets/processed%20(6).jpeg)
+![Install process](https://github.com/smppandi1998/springr/blob/master/assets/processed%20(7).jpeg)
+!https://github.com/smppandi1998/springr/blob/master/assets/processed%20(8).jpeg)
+![splash screen](https://github.com/smppandi1998/springr/blob/master/assets/processed%20(9).jpeg)
 
-## Support
+
+## APK DOWNLOAD LINK
 
 In case of any questions or problems, please contact me at:
-[hello@reactnativemarket.com](mailto:hello@reactnativemarket.com)
+(https://expo.io/artifacts/b30c105a-0c39-40f6-9c30-8a13f54b16cf)
 
 ### Happy Coding 🚀
 
